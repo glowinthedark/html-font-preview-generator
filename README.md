@@ -27,3 +27,5 @@ Run the script
 ```bash
 python3 html_fontlist_generator.py
 ```
+
+After the script is executed a file named `fontlist.html` will be created in the same folder as the script. Open the file with your browser by double-clicking it.
