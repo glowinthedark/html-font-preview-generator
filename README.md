@@ -1,6 +1,9 @@
 # html-font-preview-generator
 Python script for generating an HTML preview file for all the fonts installed on the system
 
+## 🔗  [Demo (generated HTML output)](https://glowinthedark.github.io/html-font-preview-generator/fontlist_sample.html) 
+
+
 ## Requirements
 
 - **python3** — download from https://www.python.org/downloads or use your OS package manager
