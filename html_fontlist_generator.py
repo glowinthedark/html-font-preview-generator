@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# DEPENDENCIES: python3 and matplotlib; install with:
+#     pip3 install matplotlib
+
 from matplotlib import font_manager
 
 SAMPLES = {
