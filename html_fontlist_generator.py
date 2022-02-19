@@ -21,8 +21,7 @@ if __name__ == "__main__":
 
     ttf_dict.update(afm_dict)
 
-    with open(OUTPUT_FILE, 'w') as out:
-
+    with open(OUTPUT_FILE, mode="w", encoding="utf8") as out:
         print('''
     <!DOCTYPE html>
     <html>
